@@ -61,7 +61,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -250,
+        0,
         0,
         0,
         0,
@@ -1385,7 +1385,10 @@
     "shadowNode": {
       "__id__": 27
     },
-    "value": "S0",
+    "opendButton": {
+      "__id__": 4
+    },
+    "value": "",
     "isAuto": false,
     "isPeekable": false,
     "_isOpened": false,
