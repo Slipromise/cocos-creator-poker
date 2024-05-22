@@ -1,7 +1,9 @@
 {
-  "ver": "1.0.1",
-  "uuid": "473c7968-be51-4b13-8b8b-0f82fe9e4081",
-  "isSubpackage": false,
-  "subpackageName": "",
-  "subMetas": {}
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "01b33e56-816b-4acd-94ce-ad57e3409058",
+  "files": [],
+  "subMetas": {},
+  "userData": {}
 }
